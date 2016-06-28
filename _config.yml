@@ -1,0 +1,14 @@
+layout_spectrum: 0.9104450820013881
+typography_spectrum: 0.23706495109945536
+color:
+  brandStrength: 0.45213440991938114
+  lightness: 0.026430284371599555
+  saturation: 0.6252467385493219
+  rhythmicContrast: 0.15912366122938693
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: MyFamily
